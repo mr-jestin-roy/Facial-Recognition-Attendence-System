@@ -4,5 +4,5 @@ A fast-paced Facial Recognition using OpenCV and Dlib with attendance system bas
 
 
 
-[![Watch Video](https://www.google.com/search?q=facial+recognition+attendance+system&sxsrf=ALeKk01lHK6a6QovcThYi4QDCcPcidr4sQ:1593544018194&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGno2JnqrqAhXPTX0KHfbFCDcQ_AUoAnoECA0QBA&biw=1853&bih=951#imgrc=s7QbZudvln7YwM)]
+[![Facial Recognition](https://github.com/mr-jestin-roy/Facial-Recognition-Attendence-System/blob/master/2-8-LCD-Face-Fingerprint-Password-Attendance-Facial-Recognition-Office-Fingerprint-Time-Attendance-System-Employee-Recorder.jpg]
 
