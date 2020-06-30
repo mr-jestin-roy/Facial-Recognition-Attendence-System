@@ -4,4 +4,5 @@ A fast-paced Facial Recognition using OpenCV and Dlib with attendance system bas
 
 
 
-[![Watch Video](https://github.com/murtazahassan/Curved-Lane-Detection/blob/master/CurvedLaneDetection%20(1).jpg)](https://youtu.be/-RuWTwDlot8)
+[![Watch Video](https://www.google.com/search?q=facial+recognition+attendance+system&sxsrf=ALeKk01lHK6a6QovcThYi4QDCcPcidr4sQ:1593544018194&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGno2JnqrqAhXPTX0KHfbFCDcQ_AUoAnoECA0QBA&biw=1853&bih=951#imgrc=s7QbZudvln7YwM)]
+
