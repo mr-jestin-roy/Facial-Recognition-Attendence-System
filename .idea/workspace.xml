@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca3a9243-6fda-4691-9ee2-2c8befa3d0d4" name="Default Changelist" comment="Jestin Roy.jpg">
+    <list default="true" id="ca3a9243-6fda-4691-9ee2-2c8befa3d0d4" name="Default Changelist" comment="attendance.py">
+      <change beforePath="$PROJECT_DIR$/.idea/Facial Recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Facial Recognition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CurvedLaneDetection/LaneDetection.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,7 +73,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Basic">
     <configuration name="AttendanceProject" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="Facial Recognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +95,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Basic" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Facial Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Roy K J\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AttendanceProject" />
+      <item itemvalue="Python.Basic" />
+    </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -126,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593630843223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="attendance.py">
+      <created>1595862685922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595862685922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="attendance.py">
+      <created>1595862699696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595862699696</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,96 +186,49 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;Jestin Roy.jpg&quot;&#10;&#10;This reverts commit d46444ac" />
     <MESSAGE value="Jestin Roy.jpg" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jestin Roy.jpg" />
+    <MESSAGE value="attendance.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="attendance.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="863" y="421" width="822" height="609" key="#Notifications" timestamp="1593543184387">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606789088133">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="863" y="421" width="822" height="609" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1593543184387" />
-    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595861336869">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606789088133" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1606789084134">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595861336869" />
-    <state x="659" y="354" width="659" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593538191731">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606789084134" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="659" y="354" width="659" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1593538191731" />
-    <state x="584" y="99" width="809" height="906" key="CommitChangelistDialog2" timestamp="1593630341055">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="584" y="99" width="809" height="906" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1593630341055" />
-    <state x="242" y="116" width="1482" height="872" key="DiffContextDialog" timestamp="1593630766726">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="242" y="116" width="1482" height="872" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593630766726" />
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1595861250096">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1595861250096" />
-    <state x="819" y="452" key="Github.ShareDialog" timestamp="1593542352566">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="819" y="452" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593542352566" />
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1595861455743">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1595861455743" />
-    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1595861455742">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1595861455742" />
-    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1595861455742">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1606789144712">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1595861455742" />
-    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1595861455743">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1595861455743" />
-    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1593540859097">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593540859097" />
-    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1593540859094">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593540859094" />
-    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1593540859094">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593540859094" />
-    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1593540859096">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593540859096" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1593539857817">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1593539857817" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1593543145535">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1593543145535" />
-    <state x="478" y="269" width="1020" height="566" key="VcsDiffUtil.ChangesDialog" timestamp="1593630776100">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="478" y="269" width="1020" height="566" key="VcsDiffUtil.ChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593630776100" />
-    <state x="764" y="467" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595862414550">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="764" y="467" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1595862414550" />
-    <state x="798" y="464" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593542991323">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="798" y="464" width="381" height="176" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593542991323" />
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1593540652952">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1593540652952" />
-    <state x="826" y="346" width="324" height="412" key="svn.repositoryBrowser" timestamp="1593542422933">
-      <screen x="67" y="27" width="1853" height="1053" />
-    </state>
-    <state x="826" y="346" width="324" height="412" key="svn.repositoryBrowser/67.27.1853.1053@67.27.1853.1053" timestamp="1593542422933" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606789144712" />
   </component>
 </project>
