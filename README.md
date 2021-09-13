@@ -1,4 +1,4 @@
-# Facial-Recognition-Attendence-System
+# FACE REP : Facial-Recognition-Attendence-System
 
 A fast-paced Facial Recognition using OpenCV and Dlib with attendance system based entry for online sessions during pandemic times. 
 
